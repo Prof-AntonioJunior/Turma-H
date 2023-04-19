@@ -1,4 +1,62 @@
-header{
-    background-color: #5015BD;
-    color: black;
+*{
+    margin: 0%;
+    padding: 0%;
 }
+
+.cabeçalho{
+    background-color: #5015BD;
+    color: #160921;
+    display: flex;
+    justify-content: space-around;
+        background-image: -moz-linear-gradient();
+}
+
+.cabeçalho{
+    font-size: 26px;
+}
+
+.cabeçalho-item1{
+    font-size: 16px;
+    color: #FCF6F6;
+    margin: 30px;
+    display: inline-block;
+    }
+    
+.Imagem1-seção-2{
+        width: 25%;
+        height: 25%;
+        border-radius: 10%;
+    }
+
+.Imagem2-seção-3{
+    width: 25%;
+    height: 25%;
+    border-radius: 10%;
+}
+
+.o-cachorro{
+    background-image: linear-gradient(#027FE9,#FCF6F6);
+    font-size: 26px;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    }
+
+.o-mito{
+    background-image:linear-gradient(#E0DAF7,#FFFFFF);
+    font-size: 26px;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.rodapé{
+    background: radial-gradient(50% 50% at 50% 50%, #00F8F1 0%, rgba(0, 202, 248, 0) 100%);
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
